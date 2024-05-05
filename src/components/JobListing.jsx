@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 
 const JobListing = ({ job }) => {
   const [showFullDescription, setShowFullDescription] = useState(false);
-  console.log(job);
 
   let description = job.description;
 
@@ -25,7 +24,7 @@ const JobListing = ({ job }) => {
 
         <button
           onClick={() => setShowFullDescription((prevState) => !prevState)}
-          className="text-indigo-500 mb-5 hover:text-indigo-600"
+          className="text-indigo-500 mb-4 hover:text-indigo-600"
         >
           {showFullDescription ? 'Less' : 'More'}
         </button>
