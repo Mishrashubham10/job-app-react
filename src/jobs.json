@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "5ab1",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "location": "Mumbai, Borivali.",
+      "description": "We need a passionate react developer who possed edge-cutting skills.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "shubhTech",
+        "description": "SubhTech is an awesome company, established in 1987.",
+        "contactEmail": "shubh@gmail.com",
+        "contactPhone": "123-456-7890"
+      }
+    },
+    {
+      "id": "3a2b",
+      "title": "Node.js Developer",
+      "type": "Full-Time",
+      "location": "Mumbai.",
+      "description": "We need a passionate edge-cutting skillset Node.js Developer.\nExposure with cloudinary and file uploading with multer and other advance backend concepts like routing, data-modeling and MongoDB.",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "shubham technologies",
+        "description": "shubham technologies was established in 1990. We have almost 300 engineers working for us.",
+        "contactEmail": "shubham@google.com",
+        "contactPhone": "7400203430"
+      }
     }
   ]
 }
