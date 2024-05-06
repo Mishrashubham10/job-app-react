@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import { ClipLoader } from 'react-spinners/ClipLoader';
+import ClipLoader from 'react-spinners/ClipLoader';
 
 const override = {
   display: 'block',
