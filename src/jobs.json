@@ -85,20 +85,6 @@
       }
     },
     {
-      "id": "5ab1",
-      "title": "React Developer",
-      "type": "Full-Time",
-      "location": "Mumbai, Borivali.",
-      "description": "We need a passionate react developer who possed edge-cutting skills.",
-      "salary": "Under $50K",
-      "company": {
-        "name": "shubhTech",
-        "description": "SubhTech is an awesome company, established in 1987.",
-        "contactEmail": "shubh@gmail.com",
-        "contactPhone": "123-456-7890"
-      }
-    },
-    {
       "id": "3a2b",
       "title": "Node.js Developer",
       "type": "Full-Time",
